@@ -1,0 +1,30 @@
+[
+  {
+    "criteria": "6 to 7+ years of experience in civil engineering/infrastructure projects",
+    "score": 5
+  },
+  {
+    "criteria": "Fluent in German (spoken and written)",
+    "score": 15
+  },
+  {
+    "criteria": "Has degree in Civil Engineering (HTL, FH, or TU Bautechnik)",
+    "score": 8
+  },
+  {
+    "criteria": "Worked on at least 2 construction projects in a similar role",
+    "score": 15
+  },
+  {
+    "criteria": "Experience in project management (time, cost, billing, quality)",
+    "score": 15
+  },
+  {
+    "criteria": "Current or past employment at ASFINAG",
+    "score": -25
+  },
+  {
+    "criteria": "No degree in Civil Engineering / unrelated education",
+    "score": -10
+  }
+]
